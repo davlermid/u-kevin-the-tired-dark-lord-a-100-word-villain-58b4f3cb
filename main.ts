@@ -13,7 +13,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const ENTRY = `I bury them all. Every hero, every shining champion, every farm boy with a destiny — I dig the grave myself, because my skeletons complain about the overtime. Four hundred years of funerals. I know every widow's name. I send flowers. Real ones, not the cursed kind; the cursed kind scream, and the widows have suffered enough. You stand there, sword raised, twenty years old and certain. I was certain once. Then I learned to dig. Put down the sword, boy. Let me show you the garden. It is the only thing I ever built that grows. It grows without me.`;
+const ENTRY = `I bury them all. Every hero, every shining champion, every farm boy with a destiny — I dig the grave myself, because my skeletons complain about the overtime. Four hundred years of funerals. I know every widow's name. I send flowers. Real ones, not the cursed kind; the cursed kind scream, and the widows have suffered enough. You stand there, sword raised, twenty years old and certain. I was certain once. Then I learned the shovel. Put down the sword, boy. Let me show you my garden. It is the only thing I ever built that grows. It grows without me.`;
 
 /**
  * Count words the way a human judge does: whitespace-separated tokens that
